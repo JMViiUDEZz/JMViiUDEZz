@@ -58,8 +58,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.viudezstudio.com"><img src="https://img.shields.io/badge/-adrianvitys.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/josé-maría-viúdez-parra-58b432228/"><img src="https://img.shields.io/badge/-Adrianas%20Vitys-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jmviudezp2003@gmail.com"><img src="https://img.shields.io/badge/-adrianalbujaira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/jmviiudezz_03"><img src="https://img.shields.io/badge/-@adrxking-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.viudezstudio.com"><img src="https://img.shields.io/badge/-viudezstudio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/josé-maría-viúdez-parra-58b432228/"><img src="https://img.shields.io/badge/-José%20María-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jmviudezp2003@gmail.com"><img src="https://img.shields.io/badge/-jmviudezp2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/jmviiudezz_03"><img src="https://img.shields.io/badge/-@jmviiudezz_03-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

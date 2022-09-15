@@ -1,6 +1,6 @@
 ![JMViiUDEZz MyBanner](https://raw.githubusercontent.com/JMViiUDEZz/JMViiUDEZz/main/assets/MyBanner.jpg)
 
-<img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hi! I'm Adrian</h2>
+<img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hi! I'm José María</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 

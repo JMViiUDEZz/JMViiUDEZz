@@ -24,19 +24,19 @@ For example:
 
 ![JMViiUDEZz MyBanner](https://raw.githubusercontent.com/JMViiUDEZz/JMViiUDEZz/main/assets/MyBanner.jpg)
 
-<img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hi! I'm José María</h2>
+<img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>¡Hola! Soy José María</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-> Self-taught developer since 2020. All my most important projects are here.
+> Desarrollador autodidacta desde 2011. Todos mis proyectos más importantes están en la organización.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I completed the Associate Degree of Network Computer System Administration.\
-🌱 &nbsp;I'm on track for learning more about new Software Development technologies .\
-💪 &nbsp;In my free time I like to do some sports, especially Futsal and Padel.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at jmviudezp2003@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://www.viudezstudio.com) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
+🎓 &nbsp;Completé el Grado Asociado en Administración de Sistemas Informáticos en Red.\
+🌱 &nbsp;Estoy en camino de aprender más sobre nuevas tecnologías de Desarrollo de Software.\
+💪 &nbsp;En mi tiempo libre me gusta hacer algo de deporte, en especial Fútbol Sala y Pádel.\
+💬 &nbsp;Siéntase libre de comunicarse conmigo para consultas y voluntariado, o simplemente para una discusión interesante.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a jmviudezp2003@gmail.com! Trataré de responder tan pronto como pueda.\
+📄 &nbsp;Eche un vistazo a mi [Portafolio](https://www.viudezstudio.com) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/JMViiUDEZz/JMViiUDEZz/main/assets/NightCoding.gif" align="right"/>
 <!-- <img src="https://thumbs.gfycat.com/AlarmingVigorousGoldenmantledgroundsquirrel-size_restricted.gif" align="right" width='340' /> -->
@@ -97,4 +97,4 @@ For example:
 <a href="https://www.instagram.com/jmviiudezz_03"><img src="https://img.shields.io/badge/-@jmviiudezz_03-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-*Read this document in other language:* [Español](https://github.com/JMViiUDEZz/JMViiUDEZz/blob/main/README.es.md), [English](https://github.com/JMViiUDEZz/JMViiUDEZz/blob/main/README.md).
+*Lee este documento en otro idioma:* [Español](https://github.com/JMViiUDEZz/JMViiUDEZz/blob/main/README.es.md), [English](https://github.com/JMViiUDEZz/JMViiUDEZz/blob/main/README.md).

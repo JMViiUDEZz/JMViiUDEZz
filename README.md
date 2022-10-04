@@ -84,10 +84,6 @@ For example:
 </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JMViiUDEZz&theme=algolia" alt="JMViiUDEZz wakatime stats">
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

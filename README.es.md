@@ -28,7 +28,7 @@ For example:
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-> Desarrollador autodidacta desde 2011. Todos mis proyectos más importantes están en la organización.
+> Desarrollador autodidacta desde 2020. Todos mis proyectos más importantes están aquí.
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Completé el Grado Asociado en Administración de Sistemas Informáticos en Red.\

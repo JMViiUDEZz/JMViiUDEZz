@@ -52,18 +52,18 @@ For example:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
-![Nest JS](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nestjs)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nestjs)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Sever-05122A?style=flat&logo=microsoft%20sql%20server)
-![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
-![HTML5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)
-![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
-![Shell Script](https://img.shields.io/badge/-shell_script-05122A?style=flat&logo=gnu-bash)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=gnu-bash)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp; -->
 <!-- ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->

@@ -83,9 +83,9 @@ For example:
 <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
 <!-- ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 ### ⚙️ &nbsp;Analítica GitHub
 <!-- ### 🔢 Github Statistics -->

@@ -38,7 +38,7 @@ For example:
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a jmviudezp2003@gmail.com! Trataré de responder tan pronto como pueda.\
 📄 &nbsp;Eche un vistazo a mi [Portafolio](https://www.viudezstudio.com) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/JMViiUDEZz/JMViiUDEZz/main/assets/NightCoding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/JMViiUDEZz/JMViiUDEZz/main/assets/NightCoding.gif" align="right"/> -->
 <!-- <img src="https://thumbs.gfycat.com/AlarmingVigorousGoldenmantledgroundsquirrel-size_restricted.gif" align="right" width='340' /> -->
 
 ### 🛠 &nbsp;Pila de Tecnologías
